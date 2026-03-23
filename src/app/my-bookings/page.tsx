@@ -43,7 +43,7 @@ export default function MyBookingsPage() {
                     <div className="glass rounded-lg p-16 text-center border border-luxury-border/50">
                         <Calendar className="w-12 h-12 text-luxury-muted mx-auto mb-4" />
                         <h2 className="text-xl font-display text-luxury-white mb-2">No Bookings Found</h2>
-                        <p className="paragraph mb-6">You haven't made any reservations yet.</p>
+                        <p className="paragraph mb-6">You haven&apos;t made any reservations yet.</p>
                         <Link href="/booking" className="btn-gold inline-flex items-center gap-2">
                             Book a Venue
                         </Link>
